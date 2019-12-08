@@ -13,7 +13,12 @@ public class effects : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (gameObject.name == "Capsule") {
+        if (gameObject.name == "Capsulekuat") {
+        
+        transform.Rotate(3, 0, 0);
+        }
+
+        if (gameObject.name == "Capsulekuat(Clone)") {
         
         transform.Rotate(3, 0, 0);
         }
