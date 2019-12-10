@@ -16,7 +16,7 @@ public class stats : MonoBehaviour
         GetComponent<TextMesh>().text = "Score : " + tangga.coinTotal;
         }
         if (gameObject.name ==  "timetext") {
-        GetComponent<TextMesh>().text = "Waktu : " + tangga.timeTotal;
+        GetComponent<TextMesh>().text = "Waktu : " + (int)tangga.timeTotal +" detik";
         }
         if (gameObject.name ==  "runstatus") {
         GetComponent<TextMesh>().text = tangga.GameProses2;
