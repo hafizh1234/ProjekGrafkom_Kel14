@@ -14,4 +14,8 @@ public class MainMenu : MonoBehaviour
        Debug.Log("Kamu Telah Keluar Dari Game Flash Ball 0.7");
        Application.Quit();
    }
+   public void resetCointoZero(){
+       tangga.coinTotal=0;
+       tangga.timeTotal=0;
+   }
 }

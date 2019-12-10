@@ -13249,6 +13249,81 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4904480211250828896, guid: 3d39127ced3938a43b46e040a5d8108b,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904480211250828896, guid: 3d39127ced3938a43b46e040a5d8108b,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904480211250828896, guid: 3d39127ced3938a43b46e040a5d8108b,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904480210692505141, guid: 3d39127ced3938a43b46e040a5d8108b,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904480210692505141, guid: 3d39127ced3938a43b46e040a5d8108b,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904480210692505141, guid: 3d39127ced3938a43b46e040a5d8108b,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904480210692505140, guid: 3d39127ced3938a43b46e040a5d8108b,
+        type: 3}
+      propertyPath: m_Colors.m_PressedColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904480210692505140, guid: 3d39127ced3938a43b46e040a5d8108b,
+        type: 3}
+      propertyPath: m_Colors.m_PressedColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904480210692505140, guid: 3d39127ced3938a43b46e040a5d8108b,
+        type: 3}
+      propertyPath: m_Colors.m_PressedColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904480210692505140, guid: 3d39127ced3938a43b46e040a5d8108b,
+        type: 3}
+      propertyPath: m_Colors.m_DisabledColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904480210692505140, guid: 3d39127ced3938a43b46e040a5d8108b,
+        type: 3}
+      propertyPath: m_Colors.m_DisabledColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904480210692505140, guid: 3d39127ced3938a43b46e040a5d8108b,
+        type: 3}
+      propertyPath: m_Colors.m_DisabledColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904480210692505140, guid: 3d39127ced3938a43b46e040a5d8108b,
+        type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904480210692505140, guid: 3d39127ced3938a43b46e040a5d8108b,
+        type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4904480210692505140, guid: 3d39127ced3938a43b46e040a5d8108b,
+        type: 3}
+      propertyPath: m_Colors.m_HighlightedColor.b
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3d39127ced3938a43b46e040a5d8108b, type: 3}
 --- !u!1 &775283761
@@ -24138,12 +24213,17 @@ MonoBehaviour:
   bbNoPit: {fileID: 8546464278627182902, guid: f3f77c4680a6ee640b3db927134bb234, type: 3}
   bbPitMid: {fileID: 3695922673396490810, guid: ca2fe746f3827de4087d5da908d859cf,
     type: 3}
+  updatetrack: yes
   titikt: 344
+  titiktm4: 
   titiktm3: 
   titiktm2: 
   titiktm1: 
   titiktd: 344
   letakkoin: 
+  RandMl: 0
+  RandMt: 0
+  RandMr: 0
   coinObj: {fileID: 1249734488366702848, guid: a13b209a58519604aa3fe9bb35c7f62a, type: 3}
   balokteghObj: {fileID: 3340848408742923905, guid: acea856440b13734fba5d3d842564cae,
     type: 3}
